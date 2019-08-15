@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: virtual-network
-platforms: java
-author: yaohaizh
+extensions:
+- services: virtual-network
+- platforms: java
 ---
 
-## Getting Started with Network - Manage Express Route - in Java ##
+# Getting Started with Network - Manage Express Route - in Java #
 
 
   Azure Network sample for managing express route circuits.
