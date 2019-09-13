@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: virtual-network
-- platforms: java
+description: "Getting Started with Network - Manage Express Route - in Java"
+urlFragment: network-java-manage-express-route
 ---
 
 # Getting Started with Network - Manage Express Route - in Java #
