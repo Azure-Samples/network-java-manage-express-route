@@ -4,6 +4,7 @@ languages:
 - java
 products:
 - azure
+- azure-expressroute
 description: "Azure Network sample for managing express route circuits."
 urlFragment: network-java-manage-express-route
 ---
